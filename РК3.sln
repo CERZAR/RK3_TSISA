@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "РК3", "РК3\РК3.vcxproj", "{0EC1D0D4-E45E-4896-85CB-6EA5D4AC2F99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC1D0D4-E45E-4896-85CB-6EA5D4AC2F99}.Debug|x64.ActiveCfg = Debug|x64
+		{0EC1D0D4-E45E-4896-85CB-6EA5D4AC2F99}.Debug|x64.Build.0 = Debug|x64
+		{0EC1D0D4-E45E-4896-85CB-6EA5D4AC2F99}.Debug|x86.ActiveCfg = Debug|Win32
+		{0EC1D0D4-E45E-4896-85CB-6EA5D4AC2F99}.Debug|x86.Build.0 = Debug|Win32
+		{0EC1D0D4-E45E-4896-85CB-6EA5D4AC2F99}.Release|x64.ActiveCfg = Release|x64
+		{0EC1D0D4-E45E-4896-85CB-6EA5D4AC2F99}.Release|x64.Build.0 = Release|x64
+		{0EC1D0D4-E45E-4896-85CB-6EA5D4AC2F99}.Release|x86.ActiveCfg = Release|Win32
+		{0EC1D0D4-E45E-4896-85CB-6EA5D4AC2F99}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80CA35D-0258-4C78-B422-A2AEEE8484ED}
+	EndGlobalSection
+EndGlobal
